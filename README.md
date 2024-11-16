@@ -51,4 +51,4 @@ To Run the Bot use command **node bot.js**
 This bot was developed by Ubaidullah and supported by Maxify Studio.
 
 - **[Ubaidullah](https://discord.gg/neverlands)** for providing the inspiration and the original code.
-- Creative & Supervised Under **[Maxify](https://discord.gg/maxify)**
+- Created & Supervised Under **[Maxify](https://discord.gg/maxify)**
