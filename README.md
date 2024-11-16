@@ -42,7 +42,7 @@ Make sure to update the `config.json` file with your own bot's settings:
 
 ```bash
 git clone https://github.com/Ubaidullah71/discord-mass-dm-bot.git
-cd discord-bot-kickall-dmall
+cd discord-mass-dm-bot
 ```
 To Run the Bot use command **node bot.js**
 
