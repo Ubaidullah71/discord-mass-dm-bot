@@ -19,7 +19,7 @@ This Discord bot is designed to manage a server by providing the ability to kick
 - This command is restricted to the `allowedUserId`.
 
 ### 4. **Global Error Handling**
-- Logs any unhandled promise rejections and errors in the `globalLogChannelId` with detailed information about the error.
+- Logs any unhandled rejections and errors in the `globalLogChannelId` with detailed information about the error.
 
 ---
 
@@ -50,5 +50,5 @@ To Run the Bot use command **node bot.js**
 
 This bot was developed by Ubaidullah and supported by Maxify Studio.
 
-- **Ubaidullah** for providing the inspiration and the original code.
+- **[Ubaidullah](https://discord.gg/neverlands)** for providing the inspiration and the original code.
 - Creative & Supervised Under **[Maxify](https://discord.gg/maxify)**
