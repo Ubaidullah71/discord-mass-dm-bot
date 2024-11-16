@@ -41,7 +41,7 @@ Make sure to update the `config.json` file with your own bot's settings:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/discord-bot-kickall-dmall.git
+git clone https://github.com/Ubaidullah71/discord-mass-dm-bot.git
 cd discord-bot-kickall-dmall
 ```
 To Run the Bot use command **node bot.js**
